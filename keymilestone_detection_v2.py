@@ -91,27 +91,27 @@ date_topic_mapping = {
 topic_text = 'Topics covered in this milestone.'
 
 doc_assets = {
-    1:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image1_Doc.png','https://www.coursehero.com/file/100814111/Assignement-2docx/'),
-    2:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image2_Doc.png','https://www.coursehero.com/file/74192906/SUS1501-Assignment-05pdf/'),
-    3:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image3_Doc.png','https://www.coursehero.com/file/67962013/JM-LUNGU-65933796docx/'),
-    4:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image4_Doc.png','https://www.coursehero.com/file/33597037/SUS1501-assignment-02-S2-2018pdf/'),
-    5:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image5_Doc.png','https://www.coursehero.com/file/55110838/SUS-Assignment-5docx/'),
-    6:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image6_Doc.png','https://www.coursehero.com/file/22965867/Utilitarianism-is-the-best-approach-to-environmental-issues/'),
-    7:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image7_Doc.png','https://www.coursehero.com/file/135628655/portfolio-template-3docx/'),
-    8:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image8_Doc.png','https://www.coursehero.com/file/88996687/Assignment-05-Back-at-me-Virtue-Ethicsdoc/'),
-    9:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image9_Doc.png','https://www.coursehero.com/file/30843691/SUS1501-Assignment-03docx/'),
+    1:('./SUS1501_image1_Doc.png','https://www.coursehero.com/file/100814111/Assignement-2docx/'),
+    2:('./SUS1501_image2_Doc.png','https://www.coursehero.com/file/74192906/SUS1501-Assignment-05pdf/'),
+    3:('./SUS1501_image3_Doc.png','https://www.coursehero.com/file/67962013/JM-LUNGU-65933796docx/'),
+    4:('./SUS1501_image4_Doc.png','https://www.coursehero.com/file/33597037/SUS1501-assignment-02-S2-2018pdf/'),
+    5:('./SUS1501_image5_Doc.png','https://www.coursehero.com/file/55110838/SUS-Assignment-5docx/'),
+    6:('./SUS1501_image6_Doc.png','https://www.coursehero.com/file/22965867/Utilitarianism-is-the-best-approach-to-environmental-issues/'),
+    7:('./SUS1501_image7_Doc.png','https://www.coursehero.com/file/135628655/portfolio-template-3docx/'),
+    8:('./SUS1501_image8_Doc.png','https://www.coursehero.com/file/88996687/Assignment-05-Back-at-me-Virtue-Ethicsdoc/'),
+    9:('./SUS1501_image9_Doc.png','https://www.coursehero.com/file/30843691/SUS1501-Assignment-03docx/'),
 }
 
 qa_assets = {
-    1:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image1_QA.png','https://www.coursehero.com/tutors-problems/World-History/47646324-502-SOAPS-Eyewitness-to-Execution-5-Subject-0-Occasion-A-/'),
-    2:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image2_QA.png','https://www.coursehero.com/tutors-problems/Entrepreneurship/43570754-An-analysis-of-the-inequalities-described-using-ALL-of-John/'),
-    3:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image3_QA.png','https://www.coursehero.com/tutors-problems/Operations-Management/40928956-Show-me-a-great-fortune-and-Ill-show-you-a-great-crime-a/'),
-    4:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image4_QA.png','https://www.coursehero.com/tutors-problems/Business-Law/38537564-What-would-Kant-probably-have-said-about-van-Dijk-earning-ZAR-19/'),
-    5:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image5_QA.png','https://www.coursehero.com/student-questions/33217746-1-I-didnt-join-the-struggle-to-be-poor-Smuts/'),
-    6:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image6_QA.png','https://www.coursehero.com/file/22965867/Utilitarianism-is-the-best-approach-to-environmental-issues/'),
-    7:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image7_QA.png','https://www.coursehero.com/student-questions/32585086-sustainability-and-greed-assignment-5-please-help-I-am/'),
-    8:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image8_QA.png','https://www.coursehero.com/student-questions/32313861-Is-it-good-for-other-to-earn-R1-9-billion-while-other/'),
-    9:('./analytics/wn_analysis_details/streamlit_demo/Assets/SUS1501_image9_QA.png','https://www.coursehero.com/tutors-problems/Business-Other/31915236-So-in-assignment-2-we-reflected-on-a-particular-case-involving-great/'),
+    1:('./SUS1501_image1_QA.png','https://www.coursehero.com/tutors-problems/World-History/47646324-502-SOAPS-Eyewitness-to-Execution-5-Subject-0-Occasion-A-/'),
+    2:('./SUS1501_image2_QA.png','https://www.coursehero.com/tutors-problems/Entrepreneurship/43570754-An-analysis-of-the-inequalities-described-using-ALL-of-John/'),
+    3:('./SUS1501_image3_QA.png','https://www.coursehero.com/tutors-problems/Operations-Management/40928956-Show-me-a-great-fortune-and-Ill-show-you-a-great-crime-a/'),
+    4:('./SUS1501_image4_QA.png','https://www.coursehero.com/tutors-problems/Business-Law/38537564-What-would-Kant-probably-have-said-about-van-Dijk-earning-ZAR-19/'),
+    5:('./SUS1501_image5_QA.png','https://www.coursehero.com/student-questions/33217746-1-I-didnt-join-the-struggle-to-be-poor-Smuts/'),
+    6:('./SUS1501_image6_QA.png','https://www.coursehero.com/file/22965867/Utilitarianism-is-the-best-approach-to-environmental-issues/'),
+    7:('./SUS1501_image7_QA.png','https://www.coursehero.com/student-questions/32585086-sustainability-and-greed-assignment-5-please-help-I-am/'),
+    8:('./SUS1501_image8_QA.png','https://www.coursehero.com/student-questions/32313861-Is-it-good-for-other-to-earn-R1-9-billion-while-other/'),
+    9:('./SUS1501_image9_QA.png','https://www.coursehero.com/tutors-problems/Business-Other/31915236-So-in-assignment-2-we-reflected-on-a-particular-case-involving-great/'),
 }
 
 asset_to_topic_map = {
@@ -246,7 +246,7 @@ if nav.split(' ')[0] == 'Assignment':
                         gif_html = get_img_with_href(qa_assets[indx+qa_factor][0], qa_assets[indx+qa_factor][1])
                         cols.markdown(gif_html, unsafe_allow_html=True)
     with tab6:
-        gif_html = get_img_with_href('analytics/wn_analysis_details/streamlit_demo/Assets/study_guide_assets/SG_1.jpg','https://www.coursehero.com/dashboard/')
+        gif_html = get_img_with_href('/Assets/study_guide_assets/SG_1.jpg','https://www.coursehero.com/dashboard/')
         st.markdown(gif_html, unsafe_allow_html=True)
     with tab5:
         @st.experimental_dialog("Create your own flashcards")
@@ -268,15 +268,15 @@ if nav.split(' ')[0] == 'Assignment':
         with st.container():
             for indx,cols in enumerate(st.columns(4)):
                 if indx_of_selected in asset_to_topic_map[indx+1]+[0]:
-                    gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC{indx+1}.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href(f'/Assets/flashcard_assets/FC{indx+1}.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
             for indx,cols in enumerate(st.columns(4)):
                 if indx>=3:
-                    gif_html = get_img_with_href('analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC_own.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href('/Assets/flashcard_assets/FC_own.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
                     break
                 if indx_of_selected in asset_to_topic_map[indx+4]+[0]:
-                    gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC{indx+4}_C.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href(f'/Assets/flashcard_assets/FC{indx+4}_C.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
             d = {'Total':[7],'Completed':[3]}
             df=pd.DataFrame(d)
@@ -329,15 +329,15 @@ if nav.split(' ')[0] == 'Assignment':
         with st.container():
             for indx,cols in enumerate(st.columns(4)):
                 if indx_of_selected in asset_to_topic_map[indx+1]+[0]:
-                    gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/practice_problem_assets/PT{indx+1}.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href(f'/Assets/practice_problem_assets/PT{indx+1}.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
             for indx,cols in enumerate(st.columns(4)):
                 if indx>=3:
-                    # gif_html = get_img_with_href('analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC_own.jpg',ai_test_prep_url)
+                    # gif_html = get_img_with_href('/Assets/flashcard_assets/FC_own.jpg',ai_test_prep_url)
                     # cols.markdown(gif_html, unsafe_allow_html=True)
                     break
                 if indx_of_selected in asset_to_topic_map[indx+4]+[0]:
-                    gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/practice_problem_assets/PT{indx+4}_C.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href(f'/Assets/practice_problem_assets/PT{indx+4}_C.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
         tc1,tc2 = st.columns([1,3])
         # overall score 
@@ -487,7 +487,7 @@ if nav.split(' ')[0] == 'Essay':
                         gif_html = get_img_with_href(qa_assets[indx+qa_factor][0], qa_assets[indx+qa_factor][1])
                         cols.markdown(gif_html, unsafe_allow_html=True)
     with tab6:
-        gif_html = get_img_with_href('analytics/wn_analysis_details/streamlit_demo/Assets/study_guide_assets/SG_1.jpg','https://www.coursehero.com/dashboard/')
+        gif_html = get_img_with_href('/Assets/study_guide_assets/SG_1.jpg','https://www.coursehero.com/dashboard/')
         st.markdown(gif_html, unsafe_allow_html=True)
     with tab5:
         @st.experimental_dialog("Create your own flashcards")
@@ -509,16 +509,16 @@ if nav.split(' ')[0] == 'Essay':
         with st.container():
             for indx,cols in enumerate(st.columns(4)):
                 if indx_of_selected in asset_to_topic_map[indx+3]+[0]:
-                    gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC{indx+3}.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href(f'/Assets/flashcard_assets/FC{indx+3}.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
             
             for indx,cols in enumerate(st.columns(4)):
                 if indx<=1:
                     if indx_of_selected in asset_to_topic_map[indx+1]+[0]:
-                        gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC{indx+1}.jpg',ai_test_prep_url)
+                        gif_html = get_img_with_href(f'/Assets/flashcard_assets/FC{indx+1}.jpg',ai_test_prep_url)
                         cols.markdown(gif_html, unsafe_allow_html=True)
                 if indx>=2:
-                    # gif_html = get_img_with_href('analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC_own.jpg',ai_test_prep_url)
+                    # gif_html = get_img_with_href('/Assets/flashcard_assets/FC_own.jpg',ai_test_prep_url)
                     # cols.markdown(gif_html, unsafe_allow_html=True)
                     # st.markdown("""
                     #         <style>.element-container:has(#button-after) + div button {
@@ -573,13 +573,13 @@ if nav.split(' ')[0] == 'Essay':
         with st.container():
             for indx,cols in enumerate(st.columns(4)):
                 if indx_of_selected in asset_to_topic_map[indx+3]+[0]:
-                    gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/practice_problem_assets/PT{indx+3}.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href(f'/Assets/practice_problem_assets/PT{indx+3}.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
             
             for indx,cols in enumerate(st.columns(4)):
                 if indx<=1:
                     if indx_of_selected in asset_to_topic_map[indx+1]+[0]:
-                        gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/practice_problem_assets/PT{indx+1}.jpg',ai_test_prep_url)
+                        gif_html = get_img_with_href(f'/Assets/practice_problem_assets/PT{indx+1}.jpg',ai_test_prep_url)
                         cols.markdown(gif_html, unsafe_allow_html=True)
                 if indx>=2:
                     break
@@ -728,7 +728,7 @@ if nav.split(' ')[0] == 'Midterm' or nav.split(' ')[0] == 'Final':
                         gif_html = get_img_with_href(qa_assets[indx+qa_factor][0], qa_assets[indx+qa_factor][1])
                         cols.markdown(gif_html, unsafe_allow_html=True)
     with tab6:
-        gif_html = get_img_with_href('analytics/wn_analysis_details/streamlit_demo/Assets/study_guide_assets/SG_1.jpg','https://www.coursehero.com/dashboard/')
+        gif_html = get_img_with_href('/Assets/study_guide_assets/SG_1.jpg','https://www.coursehero.com/dashboard/')
         st.markdown(gif_html, unsafe_allow_html=True)
     with tab5:
         @st.experimental_dialog("Create your own flashcards")
@@ -749,19 +749,19 @@ if nav.split(' ')[0] == 'Midterm' or nav.split(' ')[0] == 'Final':
             for indx,cols in enumerate(st.columns(4)):
                 if indx<=3:
                     if indx_of_selected in asset_to_topic_map[indx+1]+[0]:
-                        gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC{indx+1}.jpg',ai_test_prep_url)
+                        gif_html = get_img_with_href(f'/Assets/flashcard_assets/FC{indx+1}.jpg',ai_test_prep_url)
                         cols.markdown(gif_html, unsafe_allow_html=True)
                 else:
                     if indx_of_selected in asset_to_topic_map[indx+1]+[0]:
-                        gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC{indx+1}_C.jpg',ai_test_prep_url)
+                        gif_html = get_img_with_href(f'/Assets/flashcard_assets/FC{indx+1}_C.jpg',ai_test_prep_url)
                         cols.markdown(gif_html, unsafe_allow_html=True)
             for indx,cols in enumerate(st.columns(4)):
                 if indx>=2:
-                    # gif_html = get_img_with_href('analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC_own.jpg',ai_test_prep_url)
+                    # gif_html = get_img_with_href('/Assets/flashcard_assets/FC_own.jpg',ai_test_prep_url)
                     # cols.markdown(gif_html, unsafe_allow_html=True)
                     break
                 if indx_of_selected in asset_to_topic_map[indx+5]+[0]:
-                    gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/flashcard_assets/FC{indx+5}_C.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href(f'/Assets/flashcard_assets/FC{indx+5}_C.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
             d = {'Total':[6],'Completed':[2]}
             df=pd.DataFrame(d)
@@ -811,19 +811,19 @@ if nav.split(' ')[0] == 'Midterm' or nav.split(' ')[0] == 'Final':
             for indx,cols in enumerate(st.columns(4)):
                 if indx<=3:
                     if indx_of_selected in asset_to_topic_map[indx+1]+[0]:
-                        gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/practice_problem_assets/PT{indx+1}.jpg',ai_test_prep_url)
+                        gif_html = get_img_with_href(f'/Assets/practice_problem_assets/PT{indx+1}.jpg',ai_test_prep_url)
                         cols.markdown(gif_html, unsafe_allow_html=True)
                 else:
                     if indx_of_selected in asset_to_topic_map[indx+1]+[0]:
-                        gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/practice_problem_assets/PT{indx+1}_C.jpg',ai_test_prep_url)
+                        gif_html = get_img_with_href(f'/Assets/practice_problem_assets/PT{indx+1}_C.jpg',ai_test_prep_url)
                         cols.markdown(gif_html, unsafe_allow_html=True)
             for indx,cols in enumerate(st.columns(4)):
                 if indx>=2:
-                    # gif_html = get_img_with_href('analytics/wn_analysis_details/streamlit_demo/Assets/practice_problem_assets/FC_own.jpg',ai_test_prep_url)
+                    # gif_html = get_img_with_href('/Assets/practice_problem_assets/FC_own.jpg',ai_test_prep_url)
                     # cols.markdown(gif_html, unsafe_allow_html=True)
                     break
                 if indx_of_selected in asset_to_topic_map[indx+5]+[0]:
-                    gif_html = get_img_with_href(f'analytics/wn_analysis_details/streamlit_demo/Assets/practice_problem_assets/PT{indx+5}_C.jpg',ai_test_prep_url)
+                    gif_html = get_img_with_href(f'/Assets/practice_problem_assets/PT{indx+5}_C.jpg',ai_test_prep_url)
                     cols.markdown(gif_html, unsafe_allow_html=True)
         tc1,tc2 = st.columns([1,3])
         # overall score 
