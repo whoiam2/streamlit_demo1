@@ -538,7 +538,7 @@ if nav.split(' ')[0] == 'Essay':
         st.write(fig)
 
     with tab4:
-       @st.experimental_dialog("Create a custom practice test",width='large')
+        @st.experimental_dialog("Create a custom practice test",width='large')
         def generate_pt():
             with st.container():
                 st.write("Create a custom practice test from either topics or recommended document/questions!")
