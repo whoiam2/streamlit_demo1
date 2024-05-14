@@ -37,6 +37,7 @@ st.set_page_config(
 
 #configuring side bars
 st.sidebar.header('Course SUS 1505 - University of South Africa')
+st.sidebar.page_link('https://forms.gle/fDFwZWonZYiMeUqG6',label='Share your thoughts on the page!!',icon="✅")
 add_selectionbox = st.sidebar.selectbox(
     'Select a semester',
     ('Spring 2024','Summer 2024','Fall 2024')
@@ -46,12 +47,13 @@ grammar_checker_url = 'https://www.coursehero.com/tools/grammar-checker/'
 ai_test_prep_url = 'https://www.coursehero.com/ai-tutor/flashcards/'
 ai_essay_url = 'https://www.coursehero.com/tools/proofreader/'
 nav = st.sidebar.radio('Choose a milestone option',['Assignment - week of 2024-06-03', 'Assignment - week of 2024-06-10','Essay - week of 2024-06-17','Midterm - week of 2024-07-08','Final - week of 2024-08-19'])
-
+st.sidebar.write('')
 st.sidebar.write('Checkout our tools below to help with your study needs!')
 st.sidebar.page_link(paraphraser_url, label="Paraphraser", icon="🅿️")
 st.sidebar.page_link(grammar_checker_url, label="Grammar checker", icon="🆓")
 st.sidebar.page_link(ai_test_prep_url, label="AI test prep", icon="🆙")
 st.sidebar.page_link(ai_essay_url, label="AI essay helper", icon="🆙")
+
 
 reco_text_1 = 'Most viewed contents at this milestone.'
 reco_text_2 = 'Relevant contents based on the time of the semester.'
