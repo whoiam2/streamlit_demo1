@@ -37,7 +37,8 @@ st.set_page_config(
 
 #configuring side bars
 st.sidebar.header('Course SUS 1505 - University of South Africa')
-st.sidebar.page_link('https://forms.gle/fDFwZWonZYiMeUqG6',label='Share your thoughts on the page!!',icon="✅")
+st.sidebar.page_link('https://forms.gle/fDFwZWonZYiMeUqG6',label='Click to share your thoughts on the page!!',icon="✅")
+
 add_selectionbox = st.sidebar.selectbox(
     'Select a semester',
     ('Spring 2024','Summer 2024','Fall 2024')
