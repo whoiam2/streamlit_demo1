@@ -149,7 +149,7 @@ st.markdown(text_title, unsafe_allow_html=True)
 st.markdown('''The study plans below to view your study packs, including Practice problems, Flash cards, and relevant materials to help you prepare. 
      These plans are designed to help you prepare early for upcoming assignments, essays, tests and exams that will happen in the next 1 - 2 weeks of the plan date.''')
 
-st.write('These plans are designed to help you prepare early for upcoming assignments, essays, tests and exams that will happen in the next 1 - 2 weeks of the plan date.')
+# st.write('These plans are designed to help you prepare early for upcoming assignments, essays, tests and exams that will happen in the next 1 - 2 weeks of the plan date.')
 
 text_detail = f'''<h1 style='color: Black; font-size:20px;'> Click on plan schedule below to start studying: </h1>'''
 st.markdown(text_detail, unsafe_allow_html=True)
