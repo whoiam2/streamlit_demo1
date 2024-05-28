@@ -3,3 +3,4 @@ streamlit_pills
 plotly
 pandas
 streamlit_modal
+st_clickable_images
