@@ -143,7 +143,7 @@ fc_text_3 = ''
 
 study_guide_text_header = 'Study guides to help you prepare for your milestone.'
 
-text_title = f'''<h1 style='color: Black; font-size:28px;'> Course study plan for for SUS 1501 - University of South Africa  </h1>'''
+text_title = f'''<h1 style='font-size:28px;'> Course study plan for for SUS 1501 - University of South Africa  </h1>'''
 st.markdown(text_title, unsafe_allow_html=True)
 
 st.markdown('''The study plans below to view your study packs, including Practice problems, Flash cards, and relevant materials to help you prepare. 
@@ -151,7 +151,7 @@ st.markdown('''The study plans below to view your study packs, including Practic
 
 # st.write('These plans are designed to help you prepare early for upcoming assignments, essays, tests and exams that will happen in the next 1 - 2 weeks of the plan date.')
 
-text_detail = f'''<h1 style='color: Black; font-size:20px;'> Click on plan schedule below to start studying: </h1>'''
+text_detail = f'''<h1 style='font-size:20px;'> Click on plan schedule below to start studying: </h1>'''
 st.markdown(text_detail, unsafe_allow_html=True)
 st.write('Note: the dates below are suggested date to start prepraring for your milestone, it is not the milestone due date.')
 
