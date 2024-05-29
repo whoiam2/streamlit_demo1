@@ -30,9 +30,11 @@ def open_page(url):
     """ % (url)
     components.html(open_script)
 
+school = 'University of South Africa'
+course = 'SUSI 1501'
 # from streamlit_option_menu import option_menu
 st.set_page_config(
-    page_title="Course Hero - SUSI 1501 - University of South Africa",
+    page_title=f"Course Hero - {course} - {school}",
     layout="wide",
     initial_sidebar_state="expanded")
 
@@ -143,7 +145,7 @@ fc_text_3 = ''
 
 study_guide_text_header = 'Study guides to help you prepare for your milestone.'
 
-text_title = f'''<h1 style='font-size:28px;'> Course study plan for for SUS 1501 - University of South Africa  </h1>'''
+text_title = f'''<h1 style='font-size:28px;'> Course study plan for {course} - {school}  </h1>'''
 st.markdown(text_title, unsafe_allow_html=True)
 
 st.markdown('''The study plans below to view your study packs, including Practice problems, Flash cards, and relevant materials to help you prepare. 
