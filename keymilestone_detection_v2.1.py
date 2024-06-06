@@ -39,7 +39,7 @@ st.set_page_config(
     initial_sidebar_state="expanded")
 
 #configuring side bars
-st.sidebar.header('Course SUS 1501 - University of South Africa')
+st.sidebar.header(f'Course {course} - {school}')
 # st.sidebar.page_link('https://forms.gle/fDFwZWonZYiMeUqG6',label='Click to share your thoughts on the page!!',icon="✅")
 
 add_selectionbox = st.sidebar.selectbox(
