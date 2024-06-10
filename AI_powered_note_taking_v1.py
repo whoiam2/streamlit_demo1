@@ -8,6 +8,7 @@ from streamlit_modal import Modal
 import streamlit.components.v1 as components
 from io import StringIO
 from openai import OpenAI
+from datetime import datetime
 ref_link='https://notebooklm.google.com/notebook/f7607d7a-584c-4f35-96fc-f6815c573a6c?_gl=1*1xmsgc1*_ga*MTE1NzQ5NDAzMy4xNzE3Njk1NTM5*_ga_W0LDH41ZCB*MTcxNzY5NTUzOS4xLjAuMTcxNzY5NTUzOS42MC4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23'
 
 def get_base64_of_bin_file(bin_file):
@@ -188,6 +189,11 @@ if add_selectionbox == 'June 20, 2024 - Midterm preparation':
 if add_selectionbox == 'June 6, 2024 - study materials':
     # temp_note2=note_text
     st.session_state.text = june6_note
+
+text_title = f'''<h1 style='font-size:28px;'> {course} - {school}  </h1>'''
+st.markdown(text_title, unsafe_allow_html=True)
+st.markdown(f'''<h1 style='font-size:20px; color: blue;'> {add_selectionbox}''', unsafe_allow_html=True)
+st.write(f'Last modified date: {datetime.now().replace(microsecond=0)}')
 
 file_uploaded = st.file_uploader('Upload your current note to start or start writing in the text box below',type = ['txt','docx','doc'])
 if file_uploaded is not None:
