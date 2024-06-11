@@ -124,57 +124,27 @@ D. Adventitious Breath Sounds
 1. Crackles: popping or crackling sounds heard over the peripheral lung fields Caused by fluid in the alveoli and bronchioles'''
 
 june6_note='''Diagnostic Tests
-o CBC:
- Looking for white count- Elevated- indicates infection
- Hemoglobin- indicate SOB, decreased oxygenation
- Differential- shape and size of cells to see if anemia contributes to SOB
-o Pulmonary Function Tests (PFT): Determines lung volume and airway resistance. Used to diagnose COPD and differentiate between obstructive (COPD) and restrictive disease (scleroderma). Does not measure gas levels, only the pressures in the lungs, but determines the ability the lungs have to
-exchange gases.
- Restrictive vs. Obstructive
- Restrictive- things that restrict outward expansion and limit total lung capacity for patient
- Obstructive- obstruction that prevents outflow, increased lung capacity
- Tidal Volume: amount of air that is inhaled and exhaled with patients normal breaths
- Functional Residue Capacity: volume of air remaining in lungs after
-normal expiration for patient- volume of air will be increased
-with COPD patients
-o Chest X-Ray:
- Black/white areas
- Black- indicate pneumothorax
- 
- Respiratory,StudentNotes NURS 303
- White- fluid accumulation in lungs o CT Scan
- Contrast/non-contrast – depends on physicians orders
- Cross sectional view of chest- tumors in mediastinum or pleura
-o Pulmonary Angiography: radiopaque dye injected into pulmonary circulation
-and followed by a series of x-rays to detect PE o Ventilation/Perfusion lung scan: (VQ scan)
- Done to detect PE
- Normal ratio of ventilation to perfusion is 2:2 (diff with disease
-process)
- PE, 2:1
- Pneumonia and ARDS, 1:2
-o Endoscopic Studies
- Bronchoscopy: lighted look at bronchus to examine tissue, take
-biopsies, determine source of hemoptysis, and remove objects
-(tumors)
- Nursing Care
-o Informed consent- invasive procedure, nurse gets taht o Medications:
- Atropine- dry up secretions so can visualize
-better
- Versed- follow instructions but sedated
- Amnesic affect- wont remember even through awake
-o NPO night before- nothing to eat or drink day of until
-test finished
-o Post procedure, normal findings:
- Hoarse, no gag reflex (several hours to come back), drowsy, feel an inability to swallow
- Don’t give patient anything to eat or drink until
-gag reflex returns- use tongue depressor and gag
-the patient to see if gag reflex has returned
- Sedation- drowsiness- safety- 2 side rails up, call
-light in reach, need to call someone to get up to
-go to bathroom
- Patient can eat and drink when gag reflex returns
-o Post procedure complications, unexpected findings:  Infection, aspiration, coughing up, blood,
-pneumothorax, hypoxia'''
+Formulas
+dnodal = (Total) Nodal Delay
+dproc = Processing Delay
+dqueue = Queuing Delay
+dtrans = Transmission Delay = L/R
+L = Length (in bits) of the packet
+R = Bits/second link bit rate
+dprop = Propagation Delay = D/S
+D = Distance in meters
+S = Propagation speed fixed at C (speed of light)
+C = 3 * 10^8 m/s
+dnodal = dproc + dqueue + dtrans + dprop
+dend-to-end = End to End Delay
+dend-to-end (with just transmission delay) = N(L/R) = N(dtrans)
+dend-to-end = N(dproc + dtrans + dprop)
+N = Number of links (assume N-1 routers between source and destination)
+dend-to-end (with just transmission delay, including packets) = (N + P – 1) * (L/R)
+Host A transmits packet at time t = 0; at time t = dtrans the last bit of the packet would be leaving Host A but not yet propagated through the link yet as t = 0
+dprop
+> dtrans at time t = dtrans, the first bit of the packet would be in the link just leaving Host A but would not have yet reached Host B
+dprop'''
 
 #################################### asset end ####################################
 
